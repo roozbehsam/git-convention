@@ -1,6 +1,6 @@
-# git-convention
+# Git Convention
 
-convention for git messages
+Convention for git messages
 
     
 ## messages:
